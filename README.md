@@ -13,6 +13,8 @@ Using this tool you can easily add so many members from any group to your group.
 
 $ `pkg install git python -y`
 
+$ `git clone https://github.com/Sujith-gowda720/Telegram-Scraper.git`
+
 $ `cd TelegramScraper`
 
 $ `chmod +x * && python3 setup.py`
@@ -22,8 +24,4 @@ $ `chmod +x * && python3 setup.py`
 $ `python3 scraper.py`
 
 $ `python3 adder.py `
-
-#### Or,
-
-$ `python3 add2group.py members.csv`
 
